@@ -29,4 +29,4 @@ jobs:
         repository: benny840806/mytest3
         dockerfile: Dockerfile
         always_pull: true
-        tags: latest
+        tags: v2
